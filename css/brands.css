@@ -588,6 +588,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Matrix */
+.button.button-matrix {
+  color: #000000;
+  border: 1px solid #212121;
+  background-color: #ffffff;
+}
+.button.button-matrix:hover,
+.button.button-matrix:focus {
+  filter: brightness(90%);
+}
+
 /* Medium */
 .button.button-medium {
   color: #ffffff;
